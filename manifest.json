@@ -1,0 +1,21 @@
+{
+  "name": "Evil Button App",
+  "short_name": "Evil Button",
+  "description": "Catch the evil button if you can!",
+  "icons": [
+    {
+      "src": "path/to/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "path/to/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#faf8a7",
+  "theme_color": "#abf3ab"
+}
